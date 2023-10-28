@@ -57,7 +57,7 @@
                     <input value="${pacienteTranstorno}" disabled>
 
                     <li>Observações:</li>
-                    <input value="Paciente apresenta sérios probleminhas" disabled>
+                    <input value="Paciente apresenta sinttomas compatíveis com TDAH" disabled>
                 </ul>
             </div>
         </body>
